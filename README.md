@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-streak-stats.herokuapp.com/?user=c-yunfeng
-
 
 <p align="center">
 	<a href="https://github.com/c-yunfeng" target="_blank">
