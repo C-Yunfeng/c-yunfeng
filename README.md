@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
 	<a href="https://github.com/c-yunfeng" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=c-yunfeng&show_icons=true" width="45%" alt="yunfeng's github stats"/>
 	</a>
+  <!--
 	<a href="https://github.com/c-yunfeng" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-yunfeng&layout=compact&hide=html" width="45%" alt="yunfeng's github top skills"/>
 	</a>
+  -->
 	<a href="https://github.com/c-yunfeng" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=c-yunfeng" width="45%" alt="yunfeng's github readme streak stats"/>
 	</a>
 </p>
 
-TODO:
-- [ ] select表单如何优化? 初始化提示?
-
-Done:
-- [ ] AJAX基础(20221212-20221213)
